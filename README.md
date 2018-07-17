@@ -20,6 +20,7 @@ Scoop is a command-line installer for Windows. It installs programs from the com
 
 ## Resources
 
+- [Scoop Directory](https://github.com/rasa/scoop-directory): Bucket list by GitHub score
 - [Issue Tracker](https://github.com/lukesampson/scoop/issues)
 - [Wiki](https://github.com/lukesampson/scoop/wiki)
 - Buckets
