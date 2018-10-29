@@ -17,6 +17,7 @@ Scoop is a command-line installer for Windows. It installs programs from the com
 - [Homepage](https://scoop.sh)
 - [GitHub Repository](https://github.com/lukesampson/scoop)
 - [Gitter](https://gitter.im/lukesampson/scoop)
+- [Documentation](https://scoop.netlify.com/)
 
 ## Resources
 
