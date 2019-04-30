@@ -29,11 +29,11 @@ Scoop is a command-line installer for Windows. It installs programs from the com
   - [scoop-extras](https://github.com/lukesampson/scoop-extras) OFFICIAL
   - [versions](https://github.com/scoopinstaller/versions) OFFICIAL
   - [nightlies](https://github.com/scoopinstaller/nightlies) OFFICIAL
+  - [java](https://github.com/scoopinstaller/Java) OFFICIAL
   - [nirsoft](https://github.com/kodybrown/scoop-nirsoft)
   - [php](https://github.com/nueko/scoop-php)
   - [nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts)
   - [nonportable](https://github.com/oltolm/scoop-nonportable)
-  - [java](https://github.com/se35710/scoop-java)
   - [dorado](https://github.com/h404bi/dorado)
   - [scoops](https://github.com/rasa/scoops)
   - [scoop-retools](https://github.com/TheCjw/scoop-retools)
