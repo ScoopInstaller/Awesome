@@ -30,7 +30,7 @@ It installs programs from the command line with a minimal amount of friction.
 - Buckets
   - [Main](https://github.com/ScoopInstaller/Main) OFFICIAL
   - [Extras](https://github.com/lukesampson/scoop-extras) OFFICIAL
-  - [java](https://github.com/ScoopInstaller/Java) OFFICIAL
+  - [Java](https://github.com/ScoopInstaller/Java) OFFICIAL
   - [Versions](https://github.com/ScoopInstaller/Versions) OFFICIAL
   - [PHP](https://github.com/ScoopInstaller/PHP) OFFICIAL
   - [Games](https://github.com/Calinou/scoop-games)
