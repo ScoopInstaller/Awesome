@@ -21,6 +21,7 @@ It installs programs from the command line with a minimal amount of friction.
 - [Discord](https://discord.gg/s9yRQHt)
 - [Gitter](https://gitter.im/lukesampson/scoop)
 - [Documentation](https://scoop.netlify.com/) UNOFFICIAL
+- [Documentation](https://scoop-docs.now.sh/) UNOFFICIAL (latest documentation and more features, unlike the former unmaintaind one)
 
 ## Resources
 
