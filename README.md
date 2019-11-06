@@ -46,6 +46,7 @@ It installs programs from the command line with a minimal amount of friction.
   - [hermanjustnu/scoop-emulators](https://github.com/hermanjustnu/scoop-emulators)
   - [wangzq/scoop-bucket](https://github.com/wangzq/scoop-bucket)
   - [liaoya/scoop-bucket](https://github.com/liaoya/scoop-bucket)
+  - [Sysinternals](https://github.com/Ash258/Scoop-Sysinternals)
 - Related Projects
   - [concfg](https://github.com/lukesampson/concfg)
   - [pshazz](https://github.com/lukesampson/pshazz)
