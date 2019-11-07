@@ -23,9 +23,13 @@ It installs programs from the command line with a minimal amount of friction.
 - [Documentation](https://scoop.netlify.com/) UNOFFICIAL
 - [Documentation](https://scoop-docs.now.sh/) UNOFFICIAL (latest documentation and more features, unlike the former unmaintaind one)
 
+## Application Listings
+
+- [Scoop Directory](https://github.com/rasa/scoop-directory): Directory of applications found in the most popular buckets on GitHub.
+- [Search Apps](https://scoop-docs.now.sh/apps/): Search applications in offical and user contributed buckets
+
 ## Resources
 
-- [Scoop Directory](https://github.com/rasa/scoop-directory): Bucket list by GitHub score
 - [Issue Tracker](https://github.com/lukesampson/scoop/issues)
 - [Wiki](https://github.com/lukesampson/scoop/wiki)
 - Buckets
