@@ -55,6 +55,7 @@ It installs programs from the command line with a minimal amount of friction.
   - [concfg](https://github.com/lukesampson/concfg)
   - [pshazz](https://github.com/lukesampson/pshazz)
   - [psutils](https://github.com/lukesampson/psutils)
+  - [tab completion](https://github.com/Moeologist/scoop-completion)
 
 ## License
 
