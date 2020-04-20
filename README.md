@@ -25,7 +25,7 @@ It installs programs from the command line with a minimal amount of friction.
 
 ## Application Listings
 
-- [Scoop Directory](https://github.com/rasa/scoop-directory): Directory of applications found in the most popular buckets on GitHub.
+- [Scoop Directory](https://rasa.github.io/scoop-directory/): Directory of applications found in the most popular buckets on GitHub.
 - [Search Apps](https://scoop-docs.now.sh/apps/): Search applications in offical and user contributed buckets
 
 ## Resources
