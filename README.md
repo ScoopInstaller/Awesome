@@ -39,10 +39,10 @@ It installs programs from the command line with a minimal amount of friction.
   - [Versions](https://github.com/ScoopInstaller/Versions) OFFICIAL
   - [Nonportable](https://github.com/ScoopInstaller/Nonportable) OFFICIAL
   - [PHP](https://github.com/ScoopInstaller/PHP) OFFICIAL
-  - [Games](https://github.com/Calinou/scoop-games)
+  - [Games](https://github.com/Calinou/scoop-games) OFFICIAL
   - [Nightlies](https://github.com/ScoopInstaller/Nightlies) OFFICIAL (Deprecated)
-  - [nirsoft](https://github.com/kodybrown/scoop-nirsoft)
-  - [nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts)
+  - [nirsoft](https://github.com/kodybrown/scoop-nirsoft) OFFICIAL
+  - [nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) OFFICIAL
   - [jetbrains](https://github.com/Ash258/Scoop-JetBrains)
   - [retools](https://github.com/TheCjw/scoop-retools)
   - [h404bi/dorado](https://github.com/h404bi/dorado)
